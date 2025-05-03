@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": "6401",
+      "title": "Never give up",
+      "author": "Boody",
+      "price": "30000"
+    },
+    {
+      "id": "f3c3",
+      "title": "Cook ya Hagar",
+      "author": "Hagar",
+      "price": "10000000"
+    }
+  ]
+}
